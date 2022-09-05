@@ -1,1 +1,1 @@
-Task 0 on shell redirection
+0x02. Shell, I/O Redirections and filters
